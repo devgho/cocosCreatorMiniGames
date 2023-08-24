@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "584fff8e-4af2-43f9-86b0-f6e97b784809",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 213,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "十全大补丸": {
+      "ver": "1.0.6",
+      "uuid": "f4cf69d4-ec86-4306-9adc-2e4ec454ef56",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "584fff8e-4af2-43f9-86b0-f6e97b784809",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 213,
+      "height": 229,
+      "rawWidth": 213,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

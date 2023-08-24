@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "165cfb73-745b-430a-84d3-9818d5f2ee73",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 418,
+  "height": 472,
+  "platformSettings": {},
+  "subMetas": {
+    "极品升阶丹": {
+      "ver": "1.0.6",
+      "uuid": "721a6125-7b58-42aa-abc5-cf6c4f64d153",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "165cfb73-745b-430a-84d3-9818d5f2ee73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 418,
+      "height": 472,
+      "rawWidth": 418,
+      "rawHeight": 472,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

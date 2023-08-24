@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a9091176-c055-4f2f-81e5-13f32c9794c3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 418,
+  "height": 472,
+  "platformSettings": {},
+  "subMetas": {
+    "十全大补丹": {
+      "ver": "1.0.6",
+      "uuid": "9ebcbadd-a037-43ba-8523-0b97b438420e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a9091176-c055-4f2f-81e5-13f32c9794c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 418,
+      "height": 472,
+      "rawWidth": 418,
+      "rawHeight": 472,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

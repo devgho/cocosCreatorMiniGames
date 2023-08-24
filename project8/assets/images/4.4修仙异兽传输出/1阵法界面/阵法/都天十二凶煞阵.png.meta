@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "02578127-b9d8-4d95-a4c2-cf17982d8314",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 550,
+  "height": 191,
+  "platformSettings": {},
+  "subMetas": {
+    "都天十二凶煞阵": {
+      "ver": "1.0.6",
+      "uuid": "fa881dfd-b519-4705-b25a-040fca17fb00",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "02578127-b9d8-4d95-a4c2-cf17982d8314",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 550,
+      "height": 191,
+      "rawWidth": 550,
+      "rawHeight": 191,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
